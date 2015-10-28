@@ -1,0 +1,2 @@
+# static_web_by_docker
+通过该仓库的Dockerfile文件连接到Docker Hub，自动创建镜像
